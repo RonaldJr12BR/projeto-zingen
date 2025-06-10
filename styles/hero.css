@@ -25,10 +25,10 @@
   #hero {
     background: url(../assets/bg-hero-desktop.svg) no-repeat bottom
       center/contain;
-    padding: 15rem;
+    padding-bottom: 15rem;
 
     & img[src*="music"] {
-      width: 12.875rem;
+      width: 25.75rem;
     }
 
     & h1 {
